@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav{
+    background-color: #07766F;
+}
+.contener{
+    width: 1140px;
+    margin: auto;
+}
+.top-text{
+    height: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: aliceblue;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+.nav-bar{
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.manu-item > li{
+    list-style: none;
+    display: inline;
+    margin: 0px 10px;
+}
+.logo h3{
+    font-size: 40px;
+}
